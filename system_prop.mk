@@ -231,6 +231,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     sys.usb.rndis.func.name=gsi \
     sys.usb.rmnet.func.name=gsi
 
+
 # Volte & WFC
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.dbg.volte_avail_ovr=1 \
@@ -246,6 +247,10 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.radio.calls.on.ims=true \
     persist.data.iwlan.enable=true \
     persist.dbg.wfc_avail_ovr=1
+
+# Vendor
+PRODUCT_PROPERTY_OVERRIDES += \
+ro.vendor.patch.level=OxygenOS_5.1.3
 
 # Wi-Fi
 PRODUCT_PROPERTY_OVERRIDES += \
