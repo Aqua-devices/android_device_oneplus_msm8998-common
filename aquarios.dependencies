@@ -5,9 +5,8 @@
     "branch":      "9.0"
   },
   {
-    "repository":  "BigTopKrazies/proprietary_vendor_oneplus",
-    "target_path": "vendor/oneplus",
-    "branch":      "9.0"
+    "repository":  "Aqua-devices/proprietary_vendor_blobs_oneplus",
+    "target_path": "vendor/oneplus"
   },
   {
     "repository":  "LineageOS/android_vendor_nxp_interfaces_opensource_nfc",
