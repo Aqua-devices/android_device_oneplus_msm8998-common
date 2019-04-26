@@ -626,4 +626,7 @@
         com.android.internal.os.DeviceKeyHandler interface. -->
     <string name="config_deviceKeyHandlerClass" translatable="false">org.omnirom.device.KeyHandler</string>
 
+    <!-- Doze AOD -->
+    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+
 </resources>
