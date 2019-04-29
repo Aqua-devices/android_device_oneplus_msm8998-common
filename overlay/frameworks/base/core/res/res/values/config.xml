@@ -629,4 +629,7 @@
     <!-- Doze AOD -->
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
 
+    <!-- Fingerprint sensor gestures -->
+    <bool name="config_supportSystemNavigationKeys">true</bool>
+
 </resources>
